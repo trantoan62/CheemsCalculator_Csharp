@@ -1,0 +1,40 @@
+D:\LTUD\Project\Project\bin\Debug\Project.exe
+D:\LTUD\Project\Project\bin\Debug\Project.pdb
+D:\LTUD\Project\Project\bin\Debug\Interop.WMPLib.dll
+D:\LTUD\Project\Project\bin\Debug\AxInterop.WMPLib.dll
+D:\LTUD\Project\Project\obj\x86\Debug\Interop.WMPLib.dll
+D:\LTUD\Project\Project\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\LTUD\Project\Project\obj\x86\Debug\Project.csproj.ResolveComReference.cache
+D:\LTUD\Project\Project\obj\x86\Debug\Project.Form1.resources
+D:\LTUD\Project\Project\obj\x86\Debug\Project.Properties.Resources.resources
+D:\LTUD\Project\Project\obj\x86\Debug\Project.csproj.GenerateResource.Cache
+D:\LTUD\Project\Project\obj\x86\Debug\Project.exe
+D:\LTUD\Project\Project\obj\x86\Debug\Project.pdb
+C:\Users\Admin\Desktop\GUITOAN\Project\Project\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Admin\Desktop\GUITOAN\Project\Project\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\Desktop\GUITOAN\Project\Project\obj\x86\Debug\Project.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\GUITOAN\Project\Project\obj\x86\Debug\Project.exe
+C:\Users\Admin\Desktop\GUITOAN\Project\Project\obj\x86\Debug\Project.pdb
+C:\Users\Admin\Desktop\nhi hoa\GUITOAN\Project\Project\bin\Debug\Project.exe
+C:\Users\Admin\Desktop\nhi hoa\GUITOAN\Project\Project\bin\Debug\Project.pdb
+C:\Users\Admin\Desktop\nhi hoa\GUITOAN\Project\Project\bin\Debug\Interop.WMPLib.dll
+C:\Users\Admin\Desktop\nhi hoa\GUITOAN\Project\Project\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\Desktop\nhi hoa\GUITOAN\Project\Project\obj\x86\Debug\Project.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\nhi hoa\GUITOAN\Project\Project\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Admin\Desktop\nhi hoa\GUITOAN\Project\Project\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\Desktop\nhi hoa\GUITOAN\Project\Project\obj\x86\Debug\Project.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\nhi hoa\GUITOAN\Project\Project\obj\x86\Debug\Project.Form1.resources
+C:\Users\Admin\Desktop\nhi hoa\GUITOAN\Project\Project\obj\x86\Debug\Project.Properties.Resources.resources
+C:\Users\Admin\Desktop\nhi hoa\GUITOAN\Project\Project\obj\x86\Debug\Project.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\nhi hoa\GUITOAN\Project\Project\obj\x86\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\nhi hoa\GUITOAN\Project\Project\obj\x86\Debug\Project.exe
+C:\Users\Admin\Desktop\nhi hoa\GUITOAN\Project\Project\obj\x86\Debug\Project.pdb
+C:\Users\Admin\Desktop\GUITOAN\Project\Project\bin\Debug\Project.exe
+C:\Users\Admin\Desktop\GUITOAN\Project\Project\bin\Debug\Project.pdb
+C:\Users\Admin\Desktop\GUITOAN\Project\Project\bin\Debug\Interop.WMPLib.dll
+C:\Users\Admin\Desktop\GUITOAN\Project\Project\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\Desktop\GUITOAN\Project\Project\obj\x86\Debug\Project.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\GUITOAN\Project\Project\obj\x86\Debug\Project.Form1.resources
+C:\Users\Admin\Desktop\GUITOAN\Project\Project\obj\x86\Debug\Project.Properties.Resources.resources
+C:\Users\Admin\Desktop\GUITOAN\Project\Project\obj\x86\Debug\Project.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\GUITOAN\Project\Project\obj\x86\Debug\Project.csproj.CoreCompileInputs.cache
